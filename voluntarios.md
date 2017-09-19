@@ -1,9 +1,11 @@
 Voluntarios
 ===========
-Gracias a todos estaremos actualizando conforme se vayan sumando 
+Gracias a todos estaremos actualizando conforme se vayan sumando.
+
 #NuncaDejenDeCrear
 -----------------------------------------------------------------
-Yeffri J. Salazar\n
+Yeffri J. Salazar
+
 Samuel Palma
 Sebastian Juarez
 Elmer Colchaj
