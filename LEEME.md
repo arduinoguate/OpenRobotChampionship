@@ -8,10 +8,10 @@ Este campeonato busca ser la base para que se desarrollen muchos mas compeonatos
 
 Construcción, Diseño y armas del robot:
 - Cada equipo deberá estar compuesto de un máximo de 5 integrantes debidamente inscritos en el formulario .
-- El robot deberá tener una máxima de 30 cm y una anchura de 40 cm.
+- El robot deberá tener una máxima de 50 cm y una anchura de 50 cm.
 - Para la construcción del robot tiene permitido utilizar cualquier tipo de material.
-- El robot puede utilizar armas, exceptuando las armas de fuego, armas punzo cortantes, armas de pulsos electromagnéticos, sistemas que causen interferencia a los demás concursantes, líquidos inflamables o cualquier tipo de arma que dañe el escenario.
--  El robot debe ser controlado a distancia e inalámbricamente.
+- El robot puede utilizar armas, exceptuando las armas de fuego, armas de pulsos electromagnéticos, sistemas que causen interferencia a los demás concursantes, lanzallamas, líquidos inflamables o cualquier tipo de arma que dañe el escenario.
+-  El robot debe ser controlado a distancia e inalámbricamente, utilizando bandas ISM.
  
 Cuadrilátero:
 - El ring deberá tener una medida de 2 metros cuadrados, a una altura de 20 cm, con los laterales con malla o algún otro tipo de material que impida daños a los espectadores.
