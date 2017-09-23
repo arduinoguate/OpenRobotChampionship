@@ -10,5 +10,8 @@ Este campeonato busca ser la base para que se desarrollen muchos mas compeonatos
 ## Reglamento
 [Leer reglamento](REGLAMENTO.md)
 
+## Descripcion del robot
+Te dejamos una descripción del robot y que necesitas para poder armarlo [ver](DESCRPCIONROBOT.md)
+
 ## Voluntarios
 Openrobot Championship se organiza gracias a [los voluntarios](voluntarios.md)
