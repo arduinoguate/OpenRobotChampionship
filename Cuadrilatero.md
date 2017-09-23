@@ -13,8 +13,8 @@ El área del batalla determinado para esta competencia es el cuadrílatero, en e
   - Colocar todo tipo de trampas que no demuestren peligro alguno para los espectadores. 
   ![](media/Sierra.png)
   
-- Los espectadores y jugadores pueden:
-  - Estar a una distancia mínima de 50cm de la malla del cuadrilatero. 
+- Los espectadores y jugadores debe:
+  - Estar a una distancia mínima de 50cm detrás de la malla del cuadrilatero. 
   
   ![](media/malla.png)
   
