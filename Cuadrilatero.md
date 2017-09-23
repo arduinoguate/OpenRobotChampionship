@@ -14,7 +14,7 @@ El área del batalla determinado para esta competencia es el cuadrílatero, en e
   ![](media/Sierra.png)
   
 - Los espectadores y jugadores debe:
-  - Estar a una distancia mínima de 50cm detrás de la malla del cuadrilatero. 
+  - Estar a una distancia mínima de 50cm detrás y a 2 metros de altura de la malla del cuadrilatero. 
   
   ![](media/malla.png)
   
