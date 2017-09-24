@@ -16,6 +16,9 @@ El área del batalla determinado para esta competencia es el cuadrílatero, en e
 - Los espectadores y jugadores debe:
   - Estar a una distancia mínima de 50cm detrás de la malla y a 80cm del ring. 
   ![](media/malla3.png)
+  (segunda manera) 
+  - Estar a una distancia mínima de 30cm detrás de la malla y a 80cm del ring. 
+  ![](media/malla4.png)
   
 -  Ninguna persona puede: 
     - Ingresar al ring para intervenir de forma manual en la batalla mientras se esté en curso. 
