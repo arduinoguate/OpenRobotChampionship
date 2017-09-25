@@ -10,6 +10,9 @@ Este campeonato busca ser la base para que se desarrollen muchos mas compeonatos
 ## Reglamento
 [Leer reglamento](REGLAMENTO.md)
 
+## Cuadrilatero
+[Descripcion cuadrilatero](Cuadrilatero.md)
+
 ## Descripcion del robot
 Te dejamos una descripción del robot y que necesitas para poder armarlo [ver](DESCRPCIONROBOT.md)
 
